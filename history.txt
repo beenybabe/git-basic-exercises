@@ -1,0 +1,470 @@
+    1  git config --global user.name "Beenykay"
+    2  git config --global user.email beenykay@gmail.com
+    3  git config --list
+    4  clear
+    5  git clone -h
+    6  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+    7  git status
+    8  cd C:\Users\KARABO\OneDrive\Documents\Git_practice
+    9  cd C:\Users\KARABO\OneDrive\Documents\Git_practice
+   10  clear
+   11  cd C:\Users\KARABO\OneDrive\Documents\Git_practice
+   12  git status
+   13  cd C:\Users\KARABO\OneDrive\Documents\Git_practice
+   14  cd C:/Users/KARABO/OneDrive/Documents/Git_practice
+   15  git status
+   16  git init
+   17  git status
+   18  git add MyHistoryQ1.md
+   19  git status
+   20  git rm --cached  MyHistoryQ1.md
+   21  git status
+   22  git status
+   23  status
+   24  git status
+   25  git status
+   26  status
+   27  git status
+   28  git status
+   29  git status
+   30  git status
+   31  git status
+   32  status
+   33  git status
+   34  status
+   35  git status
+   36  git status
+   37  git status
+   38  git status
+   39  clear
+   40  git add -- all
+   41  git add --all
+   42  git status
+   43  git commit -m 'my first commit'
+   44  git status
+   45  git status
+   46  git status
+   47  git status
+   48  git add --all
+   49  git status
+   50  git status
+   51  git rm -- cached all
+   52  "git rm --cached WhyDataScienceQ2.md
+   53   MyHistoryQ1.md
+   54  git status
+   55  git rm --cached MhyDatasScienceQ2.md
+   56  clear
+   57  '
+   58  "
+   59  git rm --cached WhyDataScience.md
+   60  git rm--cached MhyDatasScienceQ2.md
+   61  git rm --cached MhyDatasScienceQ2.md
+   62  git rm --cached WhyDatasScienceQ2.md
+   63  git rm --cached WhyDataScienceQ2.md
+   64  git status
+   65  git rm --cached love_song
+   66  git rm --cached all
+   67  clear
+   68  git status
+   69  git diff
+   70  git diff healp
+   71  git diff help
+   72  diff- h
+   73  diff -h
+   74  git diff --help
+   75  git diff --h
+   76  git diff h
+   77  git add WhyDataScienceQ2.md
+   78  git status
+   79  git status
+   80  git diff
+   81  git add MyHistoryQ1.md
+   82  git restore --staged MyHistoryQ1.md
+   83  git status
+   84  git restore "WhyDataScienceQ2.md"
+   85  git status
+   86  git add MyHistoryQ1.md
+   87  git status
+   88  git restore -- staged MyHistoryQ1.md
+   89  git restore --staged MyHistoryQ1.md
+   90  git status
+   91  git add MyHistoryQ1.md
+   92  git status
+   93  git diff
+   94  git is
+   95  git Is
+   96  git status
+   97  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files
+   98  git status
+   99  git init
+  100  git status
+  101  git status
+  102  git status
+  103  git status
+  104  git status
+  105  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+  106  git status
+  107  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+  108  git init
+  109  Is Karabo-Thuthe-429-bootcamp-writing-assignment
+  110  ls -h
+  111  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git 
+  112  ls Karabo-Thuthe-429-bootcamp-writing-assignment-/
+  113  cd Karabo-Thuthe-429-bootcamp-writing-assignment-/
+  114  ls
+  115  cat README.md
+  116  git status
+  117  ls
+  118  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files
+  119  git init
+  120  ls
+  121  git status
+  122  git status
+  123  git init
+  124  git status
+  125  ls /
+  126  pwd
+  127  mkdir project_data
+  128  pwk
+  129  pwd
+  130  man rmdir
+  131  rmdir _h
+  132  git help rmdir
+  133  git -h rmdir
+  134  clear
+  135  pwd
+  136  git init
+  137  git add .
+  138  git status
+  139  git commit -m 'Adding comleted files for review'
+  140  git remote add origin 'https://github.com/Umuzi-org/Karabo-Thuthe-394-bash-for-bootcamp-.git'
+  141  git push -u origin main
+  142  git pull
+  143  git pull origin
+  144  git pull main
+  145  git pull Karabo-Thuthe-394-bash-for-bootcamp-
+  146  git pull remote main
+  147  git fetch origin main
+  148  git merge origin main
+  149  git merge main
+  150  git push -u origin main
+  151  git fetch origin main:tmp
+  152  git rebase tmp
+  153  git push origin HEAD:main
+  154  git branch -D tmp
+  155  cd C:/Users/KARABO/OneDrive/Documents/Explo_data_Ana
+  156  git init
+  157  git status
+  158  git add --all
+  159  git status
+  160  git remote add origin git@github.com:Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  161  git status
+  162  git commit -m "first commit: uploading files"
+  163  git remote add origin https://github.com/Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  164  git remote -v
+  165  git push origin main
+  166  git push origin main
+  167  git remote -v
+  168  git remote add origin git@github.com:Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  169  clear
+  170  cd C:\Users\KARABO\OneDrive\Documents\Explo_data_Ana
+  171  git status
+  172  git add --all
+  173  git status
+  174  cd C:/Users/KARABO/OneDrive/Documents/Explo_data_Ana
+  175  git status
+  176  git init
+  177  git add -A
+  178  git status
+  179  git push origin main 
+  180  git push git@github.com:Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  181  git push origin staging
+  182  git clone https://github.com/Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  183  git push --all
+  184  git config
+  185  git status
+  186  cd C:/Users/KARABO/OneDrive/Documents/Explo_data_Ana
+  187  git status
+  188  git init
+  189  git status
+  190  git commit -m "first commit: uploading files"
+  191  git push https://github.com/Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  192  git fetch origin master
+  193  git fetch origin main
+  194  git merge origin main
+  195  fetch origin main: temporary
+  196  git push https://github.com/Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  197  git fetch origin main:tmp
+  198  git clone https://github.com/Umuzi-org/Karabo-Thuthe-648-bootcamp-exploratory-data-analysis-python.git
+  199  touch .gitignore
+  200  touch .gitignore
+  201  clear
+  202  gir clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  203  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  204  git status
+  205  git checkout -b task/1
+  206  pwd
+  207  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct
+  208  git init
+  209  git add
+  210  git add .
+  211  git status
+  212  ls
+  213  cd Karabo-Thuthe-219-level-1-programming-katas-python
+  214  ls
+  215  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  216  cd Karabo-Thuthe-219-level-1-programming-katas-python
+  217  ls
+  218  git checkout -b task1/
+  219  git checkout -b task/1
+  220  git init
+  221  git add task1.py
+  222  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct
+  223  ls
+  224  git add task1.py
+  225  ls
+  226  git checkout task/1
+  227  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  228  ls
+  229  cd Karabo-Thuthe-219-level-1-programming-katas-python
+  230  il
+  231  ls
+  232  git init 
+  233  cd Karabo-Thuthe-219-level-1-programming-katas-python
+  234  git init
+  235  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  236  git status
+  237  git restore task1.py
+  238  git status
+  239  git commit -m "adding task 1 file"
+  240  git push origin task/1
+  241  git push https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git task/1
+  242  git push Karabo-Thuthe-219-level-1-programming-katas-python task/1
+  243  git push Karabo-Thuthe-219-level-1-programming-katas-python/ task/1
+  244  cd Karabo-Thuthe-219-level-1-programming-katas-python/
+  245  ls
+  246  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  247  ls
+  248  git checkout -b task/1
+  249  add task1.py
+  250  git add task1.py
+  251  ls
+  252  git status
+  253  git commit -m "adding task1 file"
+  254  git --set-upstream origin task/1
+  255  git push origin task/1
+  256  git pull-requesst
+  257  git checkout main
+  258  git pull
+  259  git checkout -b task/2
+  260  git status
+  261  git add task2.py
+  262  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct
+  263  git add task2.py
+  264  git status
+  265  li
+  266  ls
+  267  git checkout -b task/2
+  268  git add task2.py
+  269  ls
+  270  git status
+  271  git commit -m "adding task2 file"
+  272  git push origin task/2
+  273  git push origin task/2
+  274  cd Karabo-Thuthe-219-level-1-programming-katas-python/
+  275  git add task2.py
+  276  la
+  277  ls
+  278  git checkout -b task/2
+  279  cd task/2
+  280  pwd
+  281  ls
+  282  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  283  cd Karabo-Thuthe-219-level-1-programming-katas-python
+  284  git checkout -b task/2
+  285  git add task2.py
+  286  git status
+  287  git status
+  288  git add task2.py
+  289  git commit -m "adding task2 file"
+  290  git push origin task/2
+  291   git push origin task/2
+  292  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  293  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  294  cd Karabo-Thuthe-219-level-1-programming-katas-python
+  295  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct
+  296  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  297  git status
+  298  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct/Karabo-Thuthe-219-level-1-programming-katas-python
+  299  git status
+  300  git checkout -b task/3
+  301  git add task3.py
+  302  git commit -m "adding task3 file"
+  303  git status
+  304  git push origin task/3
+  305  git checkout main
+  306  git status
+  307  git status
+  308  git status
+  309  git add task4.py
+  310  git commit -m "adding task4 file"
+  311  git checkout -b task/4
+  312  git status
+  313  git status
+  314  cd C:/Users/KARABOOneDrive/Documents/level1_coding_prjct/Karabo-Thuthe-219-level-1-programming-katas-python
+  315  git sttus
+  316  git status
+  317  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct
+  318  git clone C:\Users\KARABO\OneDrive\Documents\level1_coding_prjct
+  319  git status
+  320  git add task4.py
+  321  git checkout main
+  322  git checkout -b task/4
+  323  git status
+  324  git commit -m "adding task4 file"
+  325  git push origin task/4
+  326  git status
+  327  git rm task3.py
+  328  cd C:/Users/KARABO/OneDrive/Documents
+  329  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  330  git checkout main
+  331  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct/UsersKARABOOneDriveDocumentslevel1_coding_prjct
+  332  git checkout -b task/4
+  333  git status
+  334  git add task4.py
+  335  git status
+  336  git commit -m "adding task4 file"
+  337  git push origin task/4 
+  338  cd https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  339  git clone https://github.com/Umuzi-org/Karabo-Thuthe-219-level-1-programming-katas-python.git
+  340  cd C:/Users/KARABO/OneDrive/Documents/level1_coding_prjct
+  341  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files
+  342  git clone C:\Users\KARABO\OneDrive\Documents\Git_Bash__project_files
+  343  git status
+  344  cd main
+  345  git satus
+  346  git status
+  347  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+  348  git status
+  349  git history
+  350  git commint amend
+  351  git commit amend
+  352  git rebase -i HEAD-5
+  353  git rebase -i HEAD-5
+  354  GIT STATUS
+  355  git status
+  356  cd Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment
+  357  cd Karabo-Thuthe-429-bootcamp-writing-assignment
+  358  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+  359  cd https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-
+  360  git status
+  361  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment
+  362  cd Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment
+  363  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment-
+  364  git rebase -i HEAD-5
+  365  git rebase -i HEAD-1
+  366  git status
+  367  git rebase --help
+  368  git rebase --continue
+  369   git rebase -i HEAD-5
+  370  git commit --amend
+  371  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment-
+  372  git rebase -i HEAD~5
+  373  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment-
+  374  git log --online
+  375  git log --oneline
+  376  git rebase -i HEAD~5
+  377  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment-
+  378  git rebase -i HEAD~5
+  379  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+  380  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files
+  381  git clone https://github.com/Umuzi-org/Karabo-Thuthe-429-bootcamp-writing-assignment-.git
+  382  cd C:/Users/KARABO/OneDrive/Documents/Git_Bash__project_files/Karabo-Thuthe-429-bootcamp-writing-assignment-
+  383  git history --oneline
+  384  git log --online -5
+  385  git log --oneline 5
+  386  git log --oneline
+  387  git rebase -i HEAD~5
+  388  git rebese -i HEAD~5
+  389  git rebase -i HEAD~5
+  390  git commit --amend
+  391  git log --oneline
+  392  git rebase -i HEAD~5
+  393  status
+  394  git status
+  395  git diff
+  396  git log --oneline
+  397  git rebase -i HEAD~5
+  398  $ git rebase -i HEAD~5
+  399  git rebase -i HEAD~5
+  400  git log --oneline
+  401  git rebase -i HEAD~5
+  402  git log --oneline
+  403  git push --force-with-1ease origin
+  404  git push origin main --force
+  405  cd C:/Users/KARABO/OneDrive/Documents/git-basic-exercises
+  406  clear
+  407  ls -a
+  408  git init
+  409  ls -a
+  410  git status
+  411  touch README.md
+  412  git ls -s
+  413  ls -a
+  414  git status
+  415  git log
+  416  git add
+  417  git add .
+  418  git status
+  419  git rm --cached README.md
+  420  git status
+  421  git add .
+  422  git commit -m "initial commit"
+  423  git log
+  424  nano README.md
+  425  cat README.md
+  426  git status
+  427  git commit -m "second commit"
+  428  gitgit add .
+  429  git add .
+  430  git commit -m "second commit"
+  431  nano README.md
+  432  git commit -m "third commit"
+  433  git add .
+  434  git commit -m "third commit"
+  435  git log
+  436  git checkout
+  437  git checkout 7393b3631e6329c884870bc98939eb4459f8cae3
+  438  cat README.md
+  439  git checkout 589dc2c0de3b47f1e0d1bbde0502d56d407b3757
+  440  cat README.md
+  441  git branch
+  442  cd ..
+  443  git status
+  444  ls -a
+  445  cd C:/Users/KARABO/OneDrive/Documents/git-basic-exercises
+  446  git status
+  447  git checkout main
+  448  git status
+  449  ls -a
+  450  git branch
+  451  clear
+  452  git checkout -b milkshake-flavours
+  453  git branch
+  454  git checkout main
+  455  git branch
+  456  git checkout milkshake-flavours
+  457  git branch
+  458  nano milkshakes.md
+  459  git status
+  460  git add .
+  461  git commit -m "added initial flavours"
+  462  git log
+  463  checkout main
+  464  git chechout main
+  465  git checkout main
+  466  ls -a
+  467  git checkout -b history
+  468  git log
+  469  git branch
+  470  history > history.txt
